@@ -17,8 +17,9 @@
    * Etc.
 
 # How to find me.
-Author: Hsin-Nan Lin (Ken).
->I turn tech into good service.
+Hsin-Nan Lin (Ken).
+
+**I turn tech into good service.**
 
 - [LinkIn Page](https://www.linkedin.com/in/hsin-nan-lin-6b67a388/)
 - [GitHub](http://github.cosm)
