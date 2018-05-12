@@ -1,6 +1,6 @@
 ![HsinNan](/images/HsinNan.jpg)
 
-**Welcome to my play ground !**
+**::: Welcome to my play ground ! :::**
 
 
 # Programming Tools:
@@ -8,6 +8,7 @@
    * SQL, structure query language
    * Python
    * Etc.
+
 # Basic Knowledge:
    * Statistic
    * Linear Algebra
@@ -18,12 +19,13 @@
 # How to find me.
 Author: Hsin-Nan Lin (Ken).
 >I turn tech into good service.
+
 - [LinkIn Page](https://www.linkedin.com/in/hsin-nan-lin-6b67a388/)
 - [GitHub](http://github.cosm)
 - Mail: AdvR.Ken@gmail.com
 
 # Licence    
-> Creative Commons Attribution 4.0
+> [CC-BY](https://creativecommons.org/licenses/by/3.0/)
     
  
 
